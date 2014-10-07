@@ -1,0 +1,9 @@
+{
+  "name": "example-queue",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "queue": "^3.0.7"
+  }
+}
